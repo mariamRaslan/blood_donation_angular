@@ -1,0 +1,40 @@
+body{
+    font-family: 'Artifika', serif;
+}
+
+.hh{
+    padding-bottom: 10%;
+}
+
+.cont{
+    height: 70%;
+    width:35%;
+    overflow:fit-content;
+    opacity: 0.9;
+}
+
+.first-part{
+    
+    /* background-image: url('../../../assets/img/bloodho.png'); */
+    background-image: url('../../../assets/img/pexels-puwadon.jpg');
+    background-repeat: no-repeat;
+     padding-top: 10%;
+   background-size: cover;
+    /* background-size: 100% 100%; */
+    margin-bottom: 10%;
+    height: 620px;
+    
+}
+.container-fluid > h2{
+    font-weight: 700;
+    font-size: 55px;
+    /* color:rgb(233, 125, 125); */
+    color: rgb(240, 84, 84);
+}
+.container-fluid >.btn{
+    font-size: 21px;
+}
+
+.heading_color{
+    color: rgb(240, 84, 84);
+}

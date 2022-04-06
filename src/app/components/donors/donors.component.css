@@ -1,0 +1,41 @@
+body{
+  background-color: #f8f9fa;
+  padding-bottom: 12%;
+}
+.user-dashboard-info-box .candidates-list .thumb {
+  margin-right: 20px;
+}
+.user-dashboard-info-box .candidates-list .thumb img {
+  width: 80px;
+  height: 80px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.user-dashboard-info-box .candidates-list td {
+  vertical-align: middle;
+}
+
+.user-dashboard-info-box td li {
+  margin: 0 4px;
+}
+
+.user-dashboard-info-box .table thead th {
+  border-bottom: none;
+}
+
+.table.manage-candidates-top th {
+  border: 0;
+}
+.user-dashboard-info-box .candidate-list-details ul {
+  color: #969696;
+}
+.candidate-list-details ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-bottom: 0px;
+}

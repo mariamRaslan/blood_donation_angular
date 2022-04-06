@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding-top: 40px;
+  color: #2e323c;
+  background-color: #f8f8f8;
+  position: relative;
+  height: 100%;
+}
+
+.user-profile .user-avatar {
+  margin: 0 0 1rem 0;
+}
+
+.card {
+  background-color: #f8f8f8;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  border: 0;
+  margin-bottom: 1rem;
+}

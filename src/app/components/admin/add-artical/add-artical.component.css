@@ -1,0 +1,25 @@
+label{
+  color:black;
+  
+}
+textarea {
+    width: 100%;
+    height: 100px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    /* border: 1px solid #ccc; */
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 15px;
+    resize: none;
+  }
+  .text-2{
+    height: 300px;
+
+  }
+
+  @import url(https://unpkg.com/@webpixels/css@1.1.5/dist/index.css);
+
+  /* Bootstrap Icons */
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.4.0/font/bootstrap-icons.min.css");
+  
